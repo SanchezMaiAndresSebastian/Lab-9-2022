@@ -32,9 +32,6 @@ Andrés Sánchez
 
 ###### _FIGURA 2_
 
-![](https://3.bp.blogspot.com/-5HoYntLw-pA/WfNEzXiLDPI/AAAAAAAABKc/6jJX6g_Qc-siJcD82C5GlmUyX-H6mWkxgCLcBGAs/s1600/operaciones.png) 
-
-###### _FIGURA 3_
 
 
 
@@ -43,9 +40,9 @@ Andrés Sánchez
  
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
-- Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/1.png)
+![](https://3.bp.blogspot.com/-5HoYntLw-pA/WfNEzXiLDPI/AAAAAAAABKc/6jJX6g_Qc-siJcD82C5GlmUyX-H6mWkxgCLcBGAs/s1600/operaciones.png) 
+
 ###### _FIGURA 3_
 
 
@@ -54,41 +51,36 @@ Andrés Sánchez
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
-| 1 | Generador de señales | 
-| 1 | Osciloscopio |
-| 1 | MUltimetro Digital |
-| 1 | Resistencias de 1 kΩ |
-| 1 | Resistencias de 2.2 kΩ |
-| 1 | Protoboard |
+| 1 | Calculadora Cientifica | 
+
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
 
-#### 3.1 Circuito 
 
-#### 3.1.1 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
-
-#### SIMULACIÓN
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/2.png)
-###### _FIGURA 4_
-
-
-#### 3.1.2 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio
-
-#### SIMULACIÓN
-
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/3.png)
-###### _FIGURA 5_
 
 
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-8-2022/blob/main/Fotos/4.png)
-###### _FIGURA 6_
+#### 4.1 Sin emplear calculadora. Transforme a su forma polar:
 
 
+#### 4.2 Sin emplear calculadora. Transforme a su forma rectangular:
+
+
+#### 4.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+#### 4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
+
+#### 4.4.1 Sin emplear calculadora. Transforme a su forma polar:
+
+
+#### 4.4.2 Sin emplear calculadora. Transforme a su forma rectangular:
+
+
+#### 4.4.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 ### 5. VIDEOS
 
 https://youtu.be/B3vGd2_jKQ4
