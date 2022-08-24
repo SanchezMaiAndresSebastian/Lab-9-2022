@@ -13,7 +13,7 @@ Andrés Sánchez
 
 **Principal**
 
- - Experimentar con el osciloscopio
+ - Realizar operaciones artmeticas con numeros complejos, tanto en su froma polar como rectangular
  
 **Específicos**
 
@@ -24,13 +24,19 @@ Andrés Sánchez
 ### 2.	MARCO TEÓRICO
 
 
-![](https://unicrom.com/wp-content/uploads/valor-rms-pico-promedio.png) 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGQDqCtckPYDGlWwSwicD4tOOBUx2Mg0jmw&usqp=CAU) 
 
 ###### _FIGURA 1_
 
-![](http://upload.wikimedia.org/wikipedia/commons/5/54/Osciloscopio.png) 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS8AafBVNHvSOZTH0moLTD-VcGWjGYl3x00w&usqp=CAU) 
 
 ###### _FIGURA 2_
+
+![](https://3.bp.blogspot.com/-5HoYntLw-pA/WfNEzXiLDPI/AAAAAAAABKc/6jJX6g_Qc-siJcD82C5GlmUyX-H6mWkxgCLcBGAs/s1600/operaciones.png) 
+
+###### _FIGURA 3_
+
+
 
 
 
