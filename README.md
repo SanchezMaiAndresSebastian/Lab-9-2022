@@ -13,12 +13,12 @@ Andrés Sánchez
 
 **Principal**
 
- - Realizar operaciones artmeticas con numeros complejos, tanto en su froma polar como rectangular
+ - Realizar operaciones artmeticas con numeros complejos, tanto en su forma polar como rectangular
  
 **Específicos**
 
-- Medir la corriente alterna
-- Explicar El funcionamiento de las herramientas que utiliza el osciloscopio
+- Calcular operaciones aritemticas con numeros imaginarios usando herramientas teroicas.
+- Calcular operaciones aritemticas con numeros imaginarios usando herramientas como la calculadora.
 
 
 ### 2.	MARCO TEÓRICO
@@ -66,30 +66,80 @@ Andrés Sánchez
 
 #### 4.1 Sin emplear calculadora. Transforme a su forma polar:
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab9%20Fund%2C%20de%20circuitos%202022-1.png) 
+###### _FIGURA 4_
 
 #### 4.2 Sin emplear calculadora. Transforme a su forma rectangular:
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab9%20Fund%2C%20de%20circuitos%202022-2.png) 
+###### _FIGURA 5_
 
 #### 4.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/Analisis%20Matem%C3%A1ticos%20Lab9%20Fund%2C%20de%20circuitos%202022-3.png) 
+###### _FIGURA 6_
+
 
 #### 4.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados
 
 #### 4.4.1 Sin emplear calculadora. Transforme a su forma polar:
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/1.png) 
+###### _FIGURA 7_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/2.png) 
+###### _FIGURA 8_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/3.png) 
+###### _FIGURA 9_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/4.png) 
+###### _FIGURA 10_
 
 #### 4.4.2 Sin emplear calculadora. Transforme a su forma rectangular:
 
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/5.png) 
+###### _FIGURA 11_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/6.png) 
+###### _FIGURA 12_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/7.png) 
+###### _FIGURA 13_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/8.png) 
+###### _FIGURA 14_
 
 #### 4.4.3 Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/9.png) 
+###### _FIGURA 15_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/10.png) 
+###### _FIGURA 16_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/11.png) 
+###### _FIGURA 17_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/12.png) 
+###### _FIGURA 18_
+
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/13.png) 
+###### _FIGURA 19_
+
+![](https://github.com/SanchezMaiAndresSebastian/Lab-9-2022/blob/main/Fotos/14.png) 
+###### _FIGURA 20_
+
+
 ### 5. VIDEOS
 
 https://youtu.be/B3vGd2_jKQ4
 
 ### 6.	CONCLUSIONES
 
-- Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El osciloscopio es una herramienta que nos permite encontrar lo que son, el periodo, el V pico a pico, V pico, V rms; I pico, I Pico a pico, I rms; de una forma análoga, debido a que no es un resultado estrictamente exacto, no existe un mismo resultado en función del tiempo.
- - El multímetro digital mide el valor de Vrms de a onda senoidal, por ende, no es lo mismo la lectura de la amplitud de voltaje pico que sale como output del osciloscopio.
+- La caluladora puede diferir con los resultados teorico debido a problemas de aproximación que se usa en la calculadora.
+
 
 
 ### 7.	BIBLIOGRAFÍA
