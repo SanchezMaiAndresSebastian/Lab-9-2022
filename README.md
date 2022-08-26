@@ -13,12 +13,12 @@ Andrés Sánchez
 
 **Principal**
 
- - Realizar operaciones artmeticas con numeros complejos, tanto en su forma polar como rectangular
+ - Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular
  
 **Específicos**
 
-- Calcular operaciones aritemticas con numeros imaginarios usando herramientas teroicas.
-- Calcular operaciones aritemticas con numeros imaginarios usando herramientas como la calculadora.
+- Calcular operaciones aritméticas con números imaginarios usando herramientas teóricas.
+- Calcular operaciones aritméticas con números imaginarios usando herramientas como la calculadora.
 
 
 ### 2.	MARCO TEÓRICO
@@ -51,7 +51,7 @@ Andrés Sánchez
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
-| 1 | Calculadora Cientifica | 
+| 1 | Calculadora Científica | 
 
  
 > (Herramientas utilizadas en simulación) 
@@ -138,7 +138,7 @@ https://youtu.be/Haqdfpmwq_Q
 
 ### 6.	CONCLUSIONES
 
-- La caluladora puede diferir con los resultados teorico debido a problemas de aproximación que se usa en la calculadora.
+- La Calculadora puede diferir con los resultados teórico debido a problemas de aproximación que se usa en la calculadora.
 
 
 
